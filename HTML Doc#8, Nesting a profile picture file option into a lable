@@ -1,3 +1,10 @@
  <fieldset>
 <label><input type="file">Upload a profile picture:</label>
  </fieldset>
+
+
+The correct syntax according to free code camp:
+
+ <fieldset>
+        <label>Upload a profile picture: <input type="file" /></label>
+ </fieldset>
